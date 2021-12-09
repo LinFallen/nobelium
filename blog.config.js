@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  title: 'WABLERS',
+  author: 'Lin',
+  email: 'lin@wablers.xyz',
+  link: 'https://wablers.notion.site/77e9b86c71f14657b1082815bc383a52?v=8043d34505024e8f9a4a2dc628ae2f6e',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
