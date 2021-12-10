@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'WABLERS',
-  author: 'Lin',
+  title: 'Meditations',
+  author: 'Meditator',
   email: 'lin@wablers.xyz',
   link: 'https://wablers.notion.site/77e9b86c71f14657b1082815bc383a52?v=8043d34505024e8f9a4a2dc628ae2f6e',
   description: 'This gonna be an awesome website.',
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: '',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
